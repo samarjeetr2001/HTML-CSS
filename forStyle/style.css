@@ -1,0 +1,63 @@
+#mainHeader{
+	padding:10px; 
+	margin:20px 0;
+	background-color:#F2DFB4;
+	color:maroon;
+	text-align: center;
+	font-family: Arial;
+	font-weight: 70;
+	font-style: italic;
+ 	border: 5px solid maroon;
+}
+.clear{
+	margin: 0;
+	padding: 0;
+}
+#mainNav{
+border:0px solid gray;
+margin:0 ;
+padding:0 ;
+text-align:center;
+list-style: none;
+background-color:white;
+}
+#mainNav li{
+	padding-right: 10px;
+	display: inline;
+	list-style: none;
+	padding: 10px:;
+}
+
+
+a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	color: red;
+}
+.jawa{
+	text-align: left;
+	color:maroon;
+	
+}
+.block
+{
+	float: left;
+	width:50%;
+	border: 10px;
+	padding: 10px;
+box-sizing: border-box;
+}
+.block1{
+	float: right;
+	width:50%;
+	border: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.b1
+{margin:500px;
+	margin-bottom:20px;
+	box-sizing: border-box;
+}
